@@ -1,0 +1,16 @@
+{
+  "name": "demoqa-reqres-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@dotenvx/dotenvx": "^1.51.4",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.9",
+    "dotenv": "^17.2.3"
+  }
+}
